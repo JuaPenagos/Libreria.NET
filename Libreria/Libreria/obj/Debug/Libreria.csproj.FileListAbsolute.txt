@@ -1,0 +1,76 @@
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\Libreria.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\Libreria.pdb
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\Antlr3.Runtime.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\DotNetOpenAuth.Core.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\EntityFramework.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\System.Web.Optimization.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\System.Web.Providers.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\WebGrease.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\EntityFramework.xml
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\DotNetOpenAuth.Core.xml
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\es\EntityFramework.resources.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\es\System.Web.Providers.resources.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\obj\Debug\Libreria.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\obj\Debug\Libreria.pdb
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\FinalLibreria.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\libComunes.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\FinalLibreria.pdb
+C:\Users\Obra Paecia\Desktop\Juan Penagos\Libreria\Libreria\bin\libComunes.pdb
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\Libreria.dll.config
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\Libreria.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\Libreria.pdb
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\Antlr3.Runtime.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\DotNetOpenAuth.Core.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\EntityFramework.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\FinalLibreria.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\System.Web.Optimization.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\System.Web.Providers.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\WebGrease.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\FinalLibreria.pdb
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\libComunes.pdb
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\EntityFramework.xml
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\DotNetOpenAuth.Core.xml
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\es\EntityFramework.resources.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\es\System.Web.Providers.resources.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\obj\Debug\Libreria.dll
+C:\Users\Penagoss\Desktop\C# Proyectos\Libreria\Libreria\obj\Debug\Libreria.pdb

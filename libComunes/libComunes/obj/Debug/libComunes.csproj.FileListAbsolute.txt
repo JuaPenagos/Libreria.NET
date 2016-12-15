@@ -1,0 +1,5 @@
+T:\DS_8-10\Clases\libComunes\libComunes\obj\Debug\libComunes.csprojResolveAssemblyReference.cache
+T:\DS_8-10\Clases\libComunes\libComunes\bin\Debug\libComunes.dll
+T:\DS_8-10\Clases\libComunes\libComunes\bin\Debug\libComunes.pdb
+T:\DS_8-10\Clases\libComunes\libComunes\obj\Debug\libComunes.dll
+T:\DS_8-10\Clases\libComunes\libComunes\obj\Debug\libComunes.pdb

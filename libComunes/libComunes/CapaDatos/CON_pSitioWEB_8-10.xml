@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<CONEXION>
+  <Servidor>salak406-16</Servidor>
+  <Basedatos>DBSupermercado</Basedatos>
+  <Usuario></Usuario>
+  <clave></clave>
+  <SeguridadIntegrada>Si</SeguridadIntegrada>
+</CONEXION>

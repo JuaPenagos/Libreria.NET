@@ -1,0 +1,7 @@
+C:\Users\Obra Paecia\Desktop\Juan Penagos\FinalLibreria\FinalLibreria\obj\Debug\FinalLibreria.csprojResolveAssemblyReference.cache
+C:\Users\Obra Paecia\Desktop\Juan Penagos\FinalLibreria\FinalLibreria\bin\Debug\FinalLibreria.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\FinalLibreria\FinalLibreria\bin\Debug\FinalLibreria.pdb
+C:\Users\Obra Paecia\Desktop\Juan Penagos\FinalLibreria\FinalLibreria\bin\Debug\libComunes.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\FinalLibreria\FinalLibreria\bin\Debug\libComunes.pdb
+C:\Users\Obra Paecia\Desktop\Juan Penagos\FinalLibreria\FinalLibreria\obj\Debug\FinalLibreria.dll
+C:\Users\Obra Paecia\Desktop\Juan Penagos\FinalLibreria\FinalLibreria\obj\Debug\FinalLibreria.pdb
